@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [9.0.0](https://github.com/roynalnaruto/revm/compare/revm-database-v8.0.0...revm-database-v9.0.0) - 2025-10-08
+
+### Other
+
+- remove deprecated methods ([#3050](https://github.com/roynalnaruto/revm/pull/3050))
+
 ## [8.0.0](https://github.com/bluealloy/revm/compare/revm-database-v7.0.5...revm-database-v8.0.0) - 2025-10-07
 
 ### Fixed

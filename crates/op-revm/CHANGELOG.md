@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [11.0.1](https://github.com/roynalnaruto/revm/compare/op-revm-v11.0.0...op-revm-v11.0.1) - 2025-10-08
+
+### Fixed
+
+- *(op-revm)* return error instead of panic when enveloped_tx is missing ([#3055](https://github.com/roynalnaruto/revm/pull/3055))
+
 ## [11.0.0](https://github.com/bluealloy/revm/compare/op-revm-v10.1.0...op-revm-v11.0.0) - 2025-10-07
 
 ### Added
